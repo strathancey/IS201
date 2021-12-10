@@ -1,0 +1,39 @@
+h2 {
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+h3 {
+    font-size: larger;
+    font-weight: lighter;
+    text-align: center;
+    color: #666666;
+}
+
+.link {
+    text-align: center;
+    color: #666666;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 500px;
+  }
+
+.contact {
+    font-weight: bold; text-align: center;
+    color: rgb(99, 25, 99);
+    font-size: x-large;
+}
+
+.pcenter {
+    text-align: center;
+}
+
+.ccenter {
+    margin-left: 25%;
+}
