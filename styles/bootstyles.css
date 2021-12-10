@@ -86,7 +86,7 @@ p{
     overflow:auto;
 }    
 
-.bg {
+.backgrounds {
     background-image: url('../images/Tableau-background.jpeg');
     background-size: cover;
 }
